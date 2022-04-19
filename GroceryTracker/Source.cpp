@@ -178,8 +178,6 @@ int main()
 				cout << endl;
 				break;
 			case 3:
-				// TODO: call Histogram function
-				cout << "user chose 3" << endl;
 				CallProcedure("write_frequency_data");
 				print.displayHistogram();
 				cout << endl;
