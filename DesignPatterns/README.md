@@ -2,7 +2,7 @@
 ## Overview
 Our client *The Gaming Room* wants to develop a web-based game that serves multiple platforms based on their current game, Draw It or Lose It, which is currently available in an Android app only. The staff at *The Gaming Room* does not know how to set up the environment so I must step in to facilitate the development of the web-based version of the gaming app by preparing a software design document and beginning development on the game application, addressing their software requirements.
 
-## Prototype Functionality
+## Gaming Room Prototype Functionality
 Create a functional game application that meets your client’s requirements incorporating common design patterns to make your code more efficient.
 Address the following:
  1. Use the singleton pattern to adapt an ordinary class and explain the purpose and characteristics of the singleton pattern in the context of this application
