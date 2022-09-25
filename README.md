@@ -1,5 +1,5 @@
 # SNHU Portfolio
-This repo will contain various projects I've worked on throughout my journey through the Computer Science program at Southern New Hampshire University. Some of the courses include Programming Languages, Software Develpment Lifecycle, Data Structures and Algorithms, etc. Hopefully this will provide insight into my thought process as well as show my progression over time.
+This repo will contain various projects I've worked on throughout my journey through the Computer Science program at Southern New Hampshire University. Some of the courses include Programming Languages, Software Development Lifecycle, Data Structures and Algorithms, etc. Hopefully this will provide insight into my thought process as well as show my progression over time.
 
 ## Software Management Projects
 ### Software Development Lifecycle (SDLC) Sprint Retrospective
