@@ -23,6 +23,12 @@ I think in this project I did a decent job of trying to abstract some of the com
 Luckily I made sure to add lots of comments, maybe even too many at some points, explaining my functions so I can come back later and easily understand what my thought process was without having to walk through every line to figure out what's going on. And of course like I've said before, I think the use of generic classes will help make this code maintainable in the future since a lot of it can be refactored independently from the rest of the program.
 
 ## Software Design Projects
+### DriverPass Business Requirements and System Design Documents
+#### Project Overview/Analysis
+This section contains a business requirements document and a system design document for the client, DriverPass. The client wanted the system to be a web-based application, with offline capabilities, to provide students with access to where they could take online practice tests and book on-the-road training to prepare for their driving exams.
+
+I believe I did well with gathering the requirements for the system, since an interview was already conducted with DriverPass, it helped to have the transcript from that meeting to lead the requirements gathering. With that as a reference, it was easier to determine what the client desired out of the system and how we could possibly implement that. If I had to pick a section I'd like to revisit most then I'd like to revise my UML Class Diagram and UML Use Case Diagram.  
+
 ### Draw It or Lose It Software Design Document
 #### Project Overview/Analysis
 This section contains a software design document and a prototype of the game application showcasing how the client can offer their game, the client being *The Gaming Room*. They want to develop a web-based game that serves multiple platforms based on their current game, Draw It or Lose It, which is currently available in an Android app only. The staff at The Gaming Room does not know how to set up the environment so I must step in to facilitate the development of the web-based version of the gaming app by preparing a software design document and beginning development on the game application, addressing their software requirements.
