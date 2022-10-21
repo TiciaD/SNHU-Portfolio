@@ -12,6 +12,14 @@ I like to plan my programs before I begin developing and usually I would provide
 
 The importance of being a good team member cannot be understated especially in an agile project where communication is a must. Being a good team member means being adaptable and open minded, as well as being forthcoming with any creative ideas including the vulnerabilities of them. And of course, every good team is built or broken on communication, if it's too difficult to communicate ideas with others then that can lead to a lot of issues for a fast-paced rapidly changing process.
 
+## Software Security Projects
+### Artemis Financial Vulnerability Assessment Report
+#### Project Overview/Analysis
+This section contains a Vulnerability Assessment Report for the client, Artemis Financial. The client wants to modernize their operations by using the most current and effective software security, so they were seeking Global Rain’s expertise about how to protect the organization from external threats so they can properly secure their users' personal and financial data.
+
+I think I did well with identifying all the security vulnerabilities in the code by through static testing using the dependency-check tool. I had never used the dependency-check plug-in for Maven before so discovering how that works and how to find the information I needed took some time but I'm happy with what I was able to find and document. Using this information can help us code more securely in the future which is needed to protect user data and gain trust from the user base which is crucial for an application handling a lot of sensitive data like financial information.
+
+I found the Manual Review section challenging, as I wasn't too familiar with the code base or how it was supposed to function so I was a little unsure of what I was supposed to look for and how to manually look for vulnerabilities. 
 
 ## C++ Projects
 ### Grocery Tracker
