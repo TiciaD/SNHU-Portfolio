@@ -37,7 +37,11 @@ Luckily I made sure to add lots of comments, maybe even too many at some points,
 #### Project Overview/Analysis
 This section contains a web application dashboard and CRUD module made with Python and MongoDB. The application is meant to help a rescue-animal training company more easily identify and categorize dogs from local animal shelters that fit certain profiles conducive to search-and-rescue training.
 
+I found it helpful that Python and MongoDB are easily readable, without knowing the underlying logic behind a function just the way the syntax is and the naming of queries, it's almost like the code documents itself! I found myself not having to write a lot of comments to explain what a function is doing, instead I tried to make sure my code was clean and could catch potential errors and edge cases. I created the CRUD module before developing the dashboard and I think that was helpful to make sure I designed the interface around the main functionality, otherwise I could've added features that would need to be refactored later if they didn't work with data properly.
 
+When approaching a problem as a computer scientist, I find it important to take an analytical approach and break down the overall problem into smaller problems. The problem seems less daunting when you can tackle small pieces at a time and make incremental progress until it eventually adds up to a modular solution. That's the approach I took with this project, just working on the MongoDB queries first, then each part of the CRUD module, then authentication, and finally tackling the dashboard UI. It made this final project much easier to complete than some of my final projects for other classes where I had to start from scratch instead of building on parts I had already built for weeks.
+
+I consider computer scientists to be professional problem-solvers. Every industry has problems, most of them can be solved or at least lessened from the use of technology. Computer scientists have to be able to adapt and come up with creative solutions to leverage the power of computers to solve these problems. The work computer scientists do can help companies become more efficient, organized and profitable.
 
 ## Software Design Projects
 ### DriverPass Business Requirements and System Design Documents
